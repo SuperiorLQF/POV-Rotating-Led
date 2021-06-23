@@ -27,4 +27,4 @@ Then you shold make simple mechanical connection by yourself, and make sure to b
 2.input  from Led8266 import *,and you 'll find 15Led trun on with white light  
 3.turn on the electrical motor to enable it to spin  
 4.as spinning stably, input Led_start(), the counter'll count and detect  
-5.run the ocv_test1 to send the picture，and it will shinning automatically  
+5.run the Led_ocv to send the picture，and it will shinning automatically  
