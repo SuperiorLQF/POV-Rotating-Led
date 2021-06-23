@@ -3,7 +3,7 @@
 POV Rotating Led using ***Esp8266-Node MCU*** and ***SK9822 Led series***  
 The electrical motors is using a 12V motor which has rpm around 3000  
 This project contents the wire connection map, python code run on computer and micropython code run on ESP8266.  
-Then you shold make simple mechanical connection by yourself, and make sure to be safe***!!!
+Then you shold make simple mechanical connection by yourself, and ***make sure to be safe***!!!
 
 ## Hard Ware Connection:  
 |ESP8266| Sk9822|battery1(5VDC)|battery2(3.7VDC)|
